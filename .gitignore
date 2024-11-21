@@ -1,3 +1,5 @@
 .DS_Store
 *.pdf
 .$summary.drawio.bkp
+*.bkp
+.gitignore
